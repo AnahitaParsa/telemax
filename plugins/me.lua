@@ -38,7 +38,7 @@ return {
   usage = "!echo [whatever]: echoes the msg",
   patterns = {
     "in kie",
-	"این کیه",
+      "!me",
   }, 
   run = run 
 }
